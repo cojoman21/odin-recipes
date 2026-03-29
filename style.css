@@ -1,0 +1,46 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #ffffff;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul,
+ol {
+    display: inline-block;
+    text-align: left;
+}
+
+.main-nav {
+    margin: 16px auto;
+    text-align: center;
+}
+
+.nav-link {
+    text-align: center;
+    margin: 16px auto;
+}
+
+.description,
+.ingredients,
+.steps {
+    background: #ff9254;
+    width: 800px;
+    margin: 16px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.steps,
+.ingredients {
+    text-align: left;
+}
+
+.picture {
+    margin: 16px auto;
+    display: block;
+    text-align: center;
+    padding: 25px auto;
+}
